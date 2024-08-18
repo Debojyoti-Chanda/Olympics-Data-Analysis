@@ -1,0 +1,1 @@
+web: setup.sh &&  streamlit run Olympic-Analysis-web-app.py
